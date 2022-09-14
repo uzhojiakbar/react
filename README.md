@@ -68,4 +68,4 @@ git add - Bekor qilish
 
 ### React Strict MOde
     xatoliklar va yoq bolgan kutubxonalarni korsatadi
-
+    <p> salom </P>
